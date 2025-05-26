@@ -15,7 +15,7 @@
 
 🚀 **Recent Highlights:**
 - Engineered Parquet data processing libraries increasing throughput by 20%
-- Worked on migrating a Windows C++ application into Linux
+- Worked on migrating a legacy Windows C++14 application into Modern C++20 in Linux
 - Developed a Rust-based lightweight video-streaming platform
 - Co-founded Pandora's Box - a natural disaster management platform
 
