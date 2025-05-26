@@ -9,15 +9,14 @@
 - Architect systems that handle massive data throughput with 20%+ performance gains
 
 💻 **Tech Stack:**
-- **Languages:** C++14/17, C#, C, Python
-- **Specialties:** Network protocols (NTLM, Kerberos, SMB), Deep Packet Inspection, SPH solvers
+- **Languages:** C++14/17, C#, Python, Rust
 - **Tools:** CMake, Docker, Azure Cloud, GitLab CI/CD, MongoDB
 - **Platforms:** Windows, Unix/Linux
 
 🚀 **Recent Highlights:**
 - Engineered Parquet data processing libraries increasing throughput by 20%
-- Automated testing pipelines reducing bug detection time by 40%
-- Developed custom memory allocators and scripting language interpreters
+- Worked on migrating a Windows C++ application into Linux
+- Developed a Rust-based lightweight video-streaming platform
 - Co-founded Pandora's Box - a natural CAT modeling platform
 
 🎯 **Currently:** Building robust, scalable software solutions at the intersection of performance engineering and cybersecurity.
