@@ -5,8 +5,8 @@
 🔧 **What I Do:**
 - Lead development of scalable C++ engines for high-performance applications
 - Build custom protocol analyzers and network security solutions
-- Create optimized algorithms for data processing and medical imaging
-- Architect systems that handle massive data throughput with 20%+ performance gains
+- Create optimized algorithms for data processing
+- Architect systems that handle massive data throughput with significant performance gains
 
 💻 **Tech Stack:**
 - **Languages:** C++14/17, C#, Python, Rust
