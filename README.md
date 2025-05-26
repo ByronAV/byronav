@@ -17,7 +17,7 @@
 - Engineered Parquet data processing libraries increasing throughput by 20%
 - Worked on migrating a Windows C++ application into Linux
 - Developed a Rust-based lightweight video-streaming platform
-- Co-founded Pandora's Box - a natural CAT modeling platform
+- Co-founded Pandora's Box - a natural disaster management platform
 
 🎯 **Currently:** Building robust, scalable software solutions at the intersection of performance engineering and cybersecurity.
 
