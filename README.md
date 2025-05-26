@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vyron Avramidis
+# 👋 Hi, I'm Vyron
 
 **Senior Software Engineer II @ Kantar Media | MSc Applied Computational Science**
 
