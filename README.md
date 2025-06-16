@@ -10,7 +10,7 @@
 
 💻 **Tech Stack:**
 - **Languages:** C++14/17, C#, Python, Rust
-- **Tools:** CMake, Docker, Azure Cloud, GitLab CI/CD, MongoDB
+- **Tools:** CMake, Docker, Azure Cloud, Github CI/CD, MongoDB
 - **Platforms:** Windows, Unix/Linux
 
 🚀 **Recent Highlights:**
